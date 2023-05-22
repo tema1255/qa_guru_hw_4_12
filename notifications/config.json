@@ -1,9 +1,9 @@
 {
   "base": {
     "logo": "",
-    "project": "some project",
-    "environment": "some env",
-    "comment": "some comment",
+    "project": "qa_guru_hw_4_12",
+    "environment": "chrome 100.0",
+    "comment": "It works!",
     "reportLink": "",
     "language": "en",
     "allureFolder": "allure-report/",
